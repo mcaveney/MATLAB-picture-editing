@@ -10,6 +10,6 @@ specific format from the placing of the Pokemon.
 
 Function: pokemonGo.m
 
-Inputs: filename of image with pokemon, filename of image without pokemon, nationalPokedex xtructure array
+Inputs: filename of image with pokemon, filename of image without pokemon, nationalPokedex structure array
 
 File Outputs: image of pokemon replaced with pokeballs, image of personal pokedex
