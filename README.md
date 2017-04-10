@@ -7,3 +7,9 @@ helper function that identifies the pokemon based off of the given section of th
 
 This function was written for CS1371 at Georgia Tech and each sample picture requires a
 specific format from the placing of the Pokemon.
+
+Function: pokemonGo.m
+
+Inputs: filename of image with pokemon, filename of image without pokemon, nationalPokedex xtructure array
+
+File Outputs: image of pokemon replaced with pokeballs, image of personal pokedex
